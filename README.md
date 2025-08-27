@@ -1,2 +1,2 @@
 # demo-project
-This is Simmon game
+This is Simmon game.
